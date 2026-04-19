@@ -26,18 +26,8 @@ This project predicts whether sales are high or not using machine learning model
    * Cross-validation
    * ROC Curve
 
-## How to Run
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-python your_script_name.py
-```
-
 ## Result
 
 * Random Forest performs better than Bagging
 * Model performance evaluated using multiple metrics
 
-## Author
-
-Sai Saharsh
